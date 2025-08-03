@@ -53,7 +53,7 @@ This portfolio site is designed as a creative and dynamic space to highlight my 
 To run this project locally:
 
 ```bash
-git clone https://github.com/Dass23M/Portfolio.git
+git clone https://github.com/sumitDev11/My-Portfolio.git
 cd Portfolio
 npm install
 npm run dev
