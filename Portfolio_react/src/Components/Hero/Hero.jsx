@@ -147,7 +147,7 @@ const Hero = () => {
 
   {/* === "DOWNLOAD RESUME" BUTTON (Applying the same fix for consistency) === */}
   <a
-    href="/Sumit_Kumar_Resume.pdf"
+    href="/Sumit Kumar Resume.pdf"
     download
     style={{
       padding: isMobile ? '0.7rem 1rem' : '0.9rem 1.8rem',
